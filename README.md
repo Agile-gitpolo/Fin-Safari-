@@ -22,7 +22,6 @@
 - 🔐 **安全可靠** - Supabase身份认证与数据保护
 
 ### 🛠️ 技术栈构成
-
 | 层级 | 技术 | 描述 |
 |---|---|---|
 | 🎮 前端框架 | React 18 + TypeScript | 类型安全，开发高效 |
@@ -32,6 +31,7 @@
 | 📊 数据 | Alpha Vantage API | 专业金融数据 |
 | 🗄️ 数据库 | Supabase Postgres | 实时数据同步 |
 | 🐍 AI后端 | Python FastAPI | 智能信号处理 |
+
 
 ### 🚀 快速开始
 
@@ -70,25 +70,6 @@ VITE_ALPHA_VANTAGE_API_KEY=your_api_key_here
 # Supabase
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_key
-```
-
-### 📁 项目结构
-```
-FinSafari/
-├── 📱 src/                    # 前端源码
-│   ├── 🧩 components/         # React组件
-│   ├── 📄 pages/            # 页面组件
-│   ├── 🔌 services/          # API服务
-│   ├── 🪝 hooks/            # 自定义Hook
-│   ├── 📊 data/             # 样本数据
-│   └── ⚙️ lib/              # 工具函数
-├── 🐍 js.tool/              # Python AI服务
-│   ├── 🚀 app.py            # Flask应用
-│   ├── 🤖 llm_service.py    # AI信号生成
-│   └── 📈 stock_data_fetcher.py
-├── 🏗️ public/              # 静态资源
-├── 📦 package.json         # 项目配置
-└── ⚙️ vite.config.ts       # Vite配置
 ```
 
 ### 🎮 核心功能
@@ -171,25 +152,6 @@ VITE_ALPHA_VANTAGE_API_KEY=your_api_key_here
 # Supabase
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_key
-```
-
-### 📁 Project Structure
-```
-FinSafari/
-├── 📱 src/                    # Frontend source
-│   ├── 🧩 components/         # React components
-│   ├── 📄 pages/            # Page components
-│   ├── 🔌 services/          # API services
-│   ├── 🪝 hooks/            # Custom hooks
-│   ├── 📊 data/             # Sample data
-│   └── ⚙️ lib/              # Utility functions
-├── 🐍 js.tool/              # Python AI services
-│   ├── 🚀 app.py            # Flask application
-│   ├── 🤖 llm_service.py    # AI signal generation
-│   └── 📈 stock_data_fetcher.py
-├── 🏗️ public/              # Static assets
-├── 📦 package.json         # Project config
-└── ⚙️ vite.config.ts       # Vite config
 ```
 
 ### 🎮 Core Features
