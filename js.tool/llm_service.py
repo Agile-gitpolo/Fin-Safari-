@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # 从环境变量获取API密钥
-API_KEY = os.getenv("MOONSHOT_API_KEY", "sk-Y2h3F2Omz3gQxN3yPZNnFogEIRr4qkOHn8wN0uQtkOjPZlUy")
+API_KEY = os.getenv("MOONSHOT_API_KEY", "")
 
 # 初始化OpenAI客户端
 client = OpenAI(
