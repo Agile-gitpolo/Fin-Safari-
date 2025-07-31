@@ -14,6 +14,8 @@
 
 ## 🇨🇳 中文版
 
+![Demo Screenshot](assets/Frontpage.jpg)
+
 ### 🎨 项目亮点
 - 🤖 **AI智能分析** - 基于大语言模型的股票信号解析
 - 📊 **实时数据监控** - 25只热门股票实时追踪
@@ -95,6 +97,8 @@ npm run lint       # 代码检查
 ---
 
 ## 🇺🇸 English Version
+
+![Demo Screenshot](assets/Frontpage.jpg)
 
 ### 🎨 Project Highlights
 - 🤖 **AI Intelligence** - LLM-based stock signal analysis
