@@ -12,7 +12,7 @@
 
 ---
 
-## 🇨🇳 中文版
+##  中文版
 
 ![Demo Screenshot](assets/Frontpage.jpg)
 
@@ -97,7 +97,7 @@ AGPL-3.0 license
 
 ---
 
-## 🇺🇸 English Version
+##  English Version
 
 ![Demo Screenshot](assets/Frontpage.jpg)
 
